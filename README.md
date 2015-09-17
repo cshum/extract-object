@@ -2,6 +2,8 @@
 
 Extract text tokens from serializable object.
 
+[![Build Status](https://travis-ci.org/cshum/extract-object.svg)](https://travis-ci.org/cshum/extract-object)
+
 ```
 npm install extract-object
 ```
